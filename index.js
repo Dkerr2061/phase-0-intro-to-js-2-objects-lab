@@ -1,4 +1,4 @@
-// Write your solution in this file!
+
 const employee = {
   name: 'David',
   streetAddress: '1068 E Elmwood Dr'
